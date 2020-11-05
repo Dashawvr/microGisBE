@@ -1,0 +1,9 @@
+#Folders
+node_modules/
+.idea/
+public/
+dist/
+logs/
+#Files
+package-lock.json
+.env
